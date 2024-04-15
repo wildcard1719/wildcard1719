@@ -4,13 +4,13 @@
 
 <br><br>
 
-## <div align="center">⚡Interest⚙</div>
+## <div align="center">Interest⚙</div>
 
-### <div align="center"> Mechatronics⚙⚡  Avionics🛰⚡  Computer Vision🖥👁‍🗨 </div>
+### <div align="center"> Mechatronics⚙  Avionics🛰  Computer Vision🖥 </div>
 
 <br><br>
 
-## <div align="center">Skills</div>
+## <div align="center">Skills💪</div>
 
 ### <div align="center"> H/W </div>
 #### <div align="center"> Autodesk Fusion &ensp; 3D printing &ensp; AVR(Arduino IDE) &ensp; Raspberry pi</div><br>
