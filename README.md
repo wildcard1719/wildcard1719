@@ -4,25 +4,24 @@
 
 <br><br>
 
-## <div align="center">Interest⚙</div>
+## Interest⚙
 
-### <div align="center"> Mechatronics⚙  Avionics🛰  Computer Vision🖥 </div>
-
-<br><br>
-
-## <div align="center">Skills💪</div>
-
-### <div align="center"> H/W </div>
-#### <div align="center"> Autodesk Fusion &ensp; 3D printing &ensp; AVR(Arduino IDE) &ensp; Raspberry pi</div><br>
-
-### <div align="center"> S/W </div>
-#### <div align="center"> C/C++(AVR) &ensp; Python &ensp; OpenCV  </div><br>
+### Mechatronics⚙  Avionics🛰  Computer Vision🖥
 
 <br><br>
 
-## <div align="center">Awards</div>
-### <div align="center"> 2023 </div>
-<div align="center">
+## Skills💪
+
+### H/W
+#### Autodesk Fusion &ensp; 3D printing &ensp; AVR(Arduino IDE) &ensp; Raspberry pi
+
+### S/W
+#### C/C++(AVR) &ensp; Python &ensp; OpenCV
+
+<br><br>
+
+## Awards</div>
+###  2023 </div>
   <ul>
     <li>한이음 ICT 멘토링 공모전 <b>금상 (과학기술정보통신부 장관상)</b></li>
     <li>한국정보처리학회 추계 학술대회 ICT멘토링부문 <b>우수논문상</b></li>
@@ -32,11 +31,10 @@
   </ul>
 </div>
 
-### <div align="center"> 2024 </div>
-<div align="center">
-  <ul>
-    <li>교내 지능형로봇 아이디어 경진대회 <b>은상</b></li>
-  </ul>
-</div>
+### 2024
+
+<ul>
+  <li>교내 지능형로봇 아이디어 경진대회 <b>은상</b></li>
+</ul>
 
 
