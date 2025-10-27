@@ -14,7 +14,6 @@ Mechatronics engineer build systems that seek, decide, and move - all built from
 
 ### 🚀 Projects
 - **3D Printing RCWS** — unique 3d printing machine launcher with remote control and target tracking
-  [![Watch the video](https://img.youtube.com/vi/LkT4LNsoa6Q/hqdefault.jpg)](https://youtu.be/LkT4LNsoa6Q)
 - **Laser Guided Rocket** — Work in progress
 
 ### 📫 Contact
