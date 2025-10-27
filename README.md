@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Sihyun Mun
 
-<!--
-**wildcard1719/wildcard1719** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛰 What I Do
+bruh
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧩 Tech Stack
+`C / C++` · `STM32 (Bare-metal)`
+`Python` · `OpenCV`
+`Optical Metrology` · `Control Systems` · `Signal Processing`
+
+---
+
+### 🚀 Projects
+- **Custom Gimbal Controller** — from motor control to camera tracking  
+- **Optical Targeting Simulation** — ray tracing & seeker modeling  
+- **FPGA Vision System** — 60FPS object tracking in hardware
+
+---
