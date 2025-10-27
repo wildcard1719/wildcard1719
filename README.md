@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Sihyun Mun
 
 ---
+Mechatronics engineer build systems that seek, decide, and move - all built from scratch.
+
 
 ### 🛰 What I Do
 bruh
