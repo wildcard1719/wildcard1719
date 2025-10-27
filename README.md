@@ -4,18 +4,18 @@ Mechatronics engineer build systems that seek, decide, and move - all built from
 
 ---
 
-### 🧩 Tech Stack
+### ⚙️ Tech Stack
 - **F/W** — `ATMEL` and little of `STM32`
-- **Python** — fun projects with `OpenCV`
 - **3D H/W** — from design with `Fusion`or`CATIA` to FDM 3D printing
-
+- **Python** — fun projects with `OpenCV`
 - **Optical Engineering** — Ray optics simulation: `Deflectometry`, `Semi Active Laser System`
 
 ---
 
 ### 🚀 Projects
 - **3D Printing RCWS** — unique 3d printing machine launcher with remote control and target tracking
+  [![Watch the video](https://img.youtube.com/vi/LkT4LNsoa6Q/hqdefault.jpg)](https://youtu.be/LkT4LNsoa6Q)
 - **Laser Guided Rocket** — Work in progress
 
 ### 📫 Contact
-- Email: `wildcard1719@gmail.com`  
+- Email: wildcard1719@gmail.com
