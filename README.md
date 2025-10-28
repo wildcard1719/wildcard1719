@@ -21,7 +21,7 @@ Mechatronics engineer build systems that seek, decide, and move - all built from
 <p>
 <img src="https://raw.githubusercontent.com/wildcard1719/wildcard1719/main/images/rcws_0.gif" alt="Demo" width="400"/>
 <img src="https://raw.githubusercontent.com/wildcard1719/wildcard1719/main/images/rcws_1.gif" alt="Demo" width="400"/>
-<img src="https://raw.githubusercontent.com/wildcard1719/wildcard1719/main/images/rcws_3.gif" alt="Demo" width="400"/> 
+<img src="https://raw.githubusercontent.com/wildcard1719/wildcard1719/main/images/rcws_2.gif" alt="Demo" width="400"/> 
 </p>
 
 
