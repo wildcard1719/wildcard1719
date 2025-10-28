@@ -2,7 +2,9 @@
 
 Mechatronics engineer build systems that seek, decide, and move - all built from scratch.
 
+
 ---
+
 
 ## ⚙️ Tech Stack
 - **F/W** — `ATMEL` and little of `STM32`
@@ -10,13 +12,14 @@ Mechatronics engineer build systems that seek, decide, and move - all built from
 - **Python** — fun projects with `OpenCV`
 - **Optical Engineering** — Ray optics simulation: `Deflectometry`, `Semi Active Laser System`
 
+
 ---
+
 
 ## 🚀 Projects
 - **3D Printing RCWS** — unique 3d printing machine launcher with remote control and target tracking
 <img src="https://raw.githubusercontent.com/wildcard1719/wildcard1719/main/images/rcws_0.gif" alt="Demo" width="400"/>
 <img src="https://raw.githubusercontent.com/wildcard1719/wildcard1719/main/images/rcws_1.gif" alt="Demo" width="400"/>
-
 
 
 
@@ -26,11 +29,10 @@ Mechatronics engineer build systems that seek, decide, and move - all built from
 
 
 
-
 - **Laser Guided Rocket** — Work in progress
 
 
-
+---
 
 
 ### 📫 Contact
