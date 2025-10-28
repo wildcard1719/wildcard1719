@@ -18,15 +18,21 @@ Mechatronics engineer build systems that seek, decide, and move - all built from
 
 ## 🚀 Projects
 - **3D Printing RCWS** — unique 3d printing machine launcher with remote control and target tracking
+<table>
+<tr>
 <img src="https://raw.githubusercontent.com/wildcard1719/wildcard1719/main/images/rcws_0.gif" alt="Demo" width="400"/>
 <img src="https://raw.githubusercontent.com/wildcard1719/wildcard1719/main/images/rcws_1.gif" alt="Demo" width="400"/>
-
+</tr>
+</table>
 
 
 - **Homemade Aspherical Mirror** — Computer-Controlled Optical Surfacing with deflectometry
+<table>
+<tr>
 <img src="https://raw.githubusercontent.com/wildcard1719/wildcard1719/main/images/deflectometry_0.png" alt="Demo" width="400"/>
 <img src="https://raw.githubusercontent.com/wildcard1719/wildcard1719/main/images/deflectometry_2.png" alt="Demo" width="400"/>
-
+</tr>
+</table>
 
 
 - **Laser Guided Rocket** — Work in progress
